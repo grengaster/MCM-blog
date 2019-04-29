@@ -164,7 +164,7 @@ MCM uses Weavescope to display the topology of the application created.
 ![blogPic20](./pics/blogPic20.png)
 
 
-##Conclusion
+## Conclusion
 So, in this tutorial, you saw how to create a simple `application.yaml` to create an MCM application and tell MCM where to get the helm charts from and where to deploy them. 
 
 
